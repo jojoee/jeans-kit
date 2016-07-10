@@ -1,0 +1,36 @@
+// Text
+$font-family-base: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+$font-size-base: 14px;
+$line-height-base: 1.42857143;
+$line-height-computed: floor($font-size-base * $line-height-base) !default;
+
+// Space
+$space1: 6px;
+$space2: 12px;
+$space3: 18px;
+$space4: 24px;
+$space5: 30px;
+$space6: 36px;
+$space7: 42px;
+$space8: 48px;
+$space9: 54px;
+$space10: 60px;
+$space11: 66px;
+$space12: 72px;
+$space13: 78px;
+$space14: 84px;
+$space15: 90px;
+$space16: 96px;
+$space17: 102px;
+$space18: 108px;
+$space19: 114px;
+$space20: 120px;
+$space21: 126px;
+$space22: 132px;
+
+// Color (unused)
+$body-bg: #ffffff !default;
+$text-color: #333333 !default;
+$link-color: #33a0c0 !default;
+$link-hover-color: #3bbfe6 !default;
+$hr-border: #eeeeee !default;

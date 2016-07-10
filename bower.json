@@ -1,0 +1,34 @@
+{
+  "name": "jeans",
+  "homepage": "https://github.com/jojoee/jeans",
+  "description": "Simple and clean frontend toolkit",
+  "main": [
+    "sass/jeans.scss"
+  ],
+  "dependencies": {
+    "bootstrap-sass-grid": "3.3.6"
+  },
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "css",
+    "grid",
+    "sass",
+    "css",
+    "responsive"
+  ],
+  "authors": [
+    "Nathachai Thongniran <inid3a@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "bk"
+  ],
+  "version": "1.0.0"
+}
