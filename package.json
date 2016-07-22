@@ -1,10 +1,10 @@
 {
-  "name": "jeans",
+  "name": "jeans-kit",
   "version": "1.0.0",
   "description": "Simple and clean frontend toolkit",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jojoee/jeans.git"
+    "url": "git+https://github.com/jojoee/jeans-kit.git"
   },
   "keywords": [
     "css",
@@ -16,9 +16,9 @@
   "author": "Nathachai Thongniran <inid3a@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jojoee/jeans/issues"
+    "url": "https://github.com/jojoee/jeans-kit/issues"
   },
-  "homepage": "https://github.com/jojoee/jeans#readme",
+  "homepage": "https://github.com/jojoee/jeans-kit#readme",
   "devDependencies": {
     "browser-sync": "^2.10.1",
     "gulp": "^3.9.0",

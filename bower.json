@@ -1,9 +1,9 @@
 {
-  "name": "jeans",
-  "homepage": "https://github.com/jojoee/jeans",
+  "name": "jeans-kit",
+  "homepage": "https://github.com/jojoee/jeans-kit",
   "description": "Simple and clean frontend toolkit",
   "main": [
-    "sass/jeans.scss"
+    "sass/jeans-kit.scss"
   ],
   "dependencies": {
     "bootstrap-sass-grid": "4.0.0"
