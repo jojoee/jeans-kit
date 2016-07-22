@@ -1,7 +1,8 @@
 {
   "name": "jeans-kit",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Simple and clean frontend toolkit",
+  "main": "sass/jeans-kit.scss",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jojoee/jeans-kit.git"
