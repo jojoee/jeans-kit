@@ -6,7 +6,7 @@
     "sass/jeans.scss"
   ],
   "dependencies": {
-    "bootstrap-sass-grid": "3.3.6"
+    "bootstrap-sass-grid": "4.0.0"
   },
   "moduleType": [
     "globals"
