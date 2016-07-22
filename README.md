@@ -1,14 +1,22 @@
-# Jeans
+# Jeans Kit
 Simple and clean frontend toolkit that you can wear it everywhere
 
 ## Getting Started
-1. Install node
-2. Install bower: `npm install -g bower`
-3. Install package: `bower install --save-dev jeans`
+1: Install via `npm`
+```
+1.1 Install npm
+1.2 Install package: `npm install --save jeans-kit`
+```
+2: Install via `bower`
+```
+2.1 Install npm
+2.2 Install bower: `npm install -g bower`
+2.3 Install package: `bower install --save jeans-kit`
+```
 
 # TODO
 - [ ] Create `$space` variable by sass loop instead
-- [ ] Fix `sass/jeans.scss`, this file should working both development process and releasing on bower
+- [ ] Fix `sass/jeans-kit.scss`, this file should working both development process and releasing on bower
 
 ## Alternatives
 - [Skeleton](http://getskeleton.com/)
