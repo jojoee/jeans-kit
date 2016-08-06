@@ -1,5 +1,5 @@
 # Jeans Kit
-![Bower Version](https://img.shields.io/bower/v/jeans-kit.svg) [![Npm Version](https://img.shields.io/npm/v/jeans-kit.svg)](https://www.npmjs.com/package/jeans-kit) [![Release Version](https://img.shields.io/github/release/jojoee/jeans-kit.svg)](https://github.com/jojoee/jeans-kit) [![Downloads](https://img.shields.io/npm/dt/jeans-kit.svg)](https://github.com/jojoee/jeans-kit/archive/master.zip)
+[![Bower Version](https://img.shields.io/bower/v/jeans-kit.svg)](https://bower.io/search/?q=jeans-kit) [![Npm Version](https://img.shields.io/npm/v/jeans-kit.svg)](https://www.npmjs.com/package/jeans-kit) [![Release Version](https://img.shields.io/github/release/jojoee/jeans-kit.svg)](https://github.com/jojoee/jeans-kit) [![Downloads](https://img.shields.io/npm/dt/jeans-kit.svg)](https://github.com/jojoee/jeans-kit/archive/master.zip)
 
 Simple and clean frontend toolkit that you can wear it everywhere
 
