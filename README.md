@@ -1,4 +1,6 @@
 # Jeans Kit
+[![Bower Version](https://travis-ci.org/jojoee/jeans-kit.svg)](https://travis-ci.org/jojoee/jeans-kit) [![Npm Version](https://travis-ci.org/jojoee/jeans-kit.svg)](https://travis-ci.org/jojoee/jeans-kit) [![Release Version](https://travis-ci.org/jojoee/jeans-kit.svg)](https://travis-ci.org/jojoee/jeans-kit) [![Downloads Version](https://travis-ci.org/jojoee/jeans-kit.svg)](https://travis-ci.org/jojoee/jeans-kit)
+
 Simple and clean frontend toolkit that you can wear it everywhere
 
 ## Getting Started
