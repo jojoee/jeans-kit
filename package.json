@@ -1,6 +1,6 @@
 {
   "name": "jeans-kit",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "Simple and clean frontend toolkit",
   "main": "sass/jeans-kit.scss",
   "repository": {
