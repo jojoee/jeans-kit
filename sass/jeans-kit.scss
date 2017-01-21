@@ -1,25 +1,13 @@
 // @import '../../bootstrap-sass-grid/sass/bootstrap-sass-grid'; // for dev purpose
 @import 'variables';
 
-* {
-  box-sizing: border-box;
-
-  &:before,
-  &:after {
-    box-sizing: border-box;
-  }
-}
-
 html {
-  font-size: 10px;
-  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+
 }
 
 body {
-  // color: $text-color;
   // background-color: $body-bg;
   font-family: $font-family-base;
-  font-size: $font-size-base;
   line-height: $line-height-base;
 }
 
