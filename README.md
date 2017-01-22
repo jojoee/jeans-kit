@@ -28,7 +28,7 @@ Simple and clean frontend toolkit that you can wear it everywhere
 
 # TODO
 - [ ] Create `$space` variable by sass loop instead
-- [ ] Fix `sass/jeans-kit.scss`, this file should working both development process and releasing on bower
+- [ ] Fix travis build (`sass/jeans-kit.scss`: File to import not found or unreadable: ../../bootstrap-sass-grid/sass/bootstrap-sass-grid)
 
 ## Alternatives
 - [Skeleton](http://getskeleton.com/)
