@@ -14,8 +14,8 @@ branches:
 install:
   - npm install -g npm@latest
   - npm install -g bower yarn
-  - bower install
   - yarn
+  - bower install
 before_script:
   - npm prune
 script:
