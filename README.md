@@ -23,7 +23,7 @@ Simple and clean frontend toolkit that you can wear it everywhere
 ## Getting Started (to develop this package)
 1. Install Node.js
 2. Install global: `npm install -g bower yarn`
-3. Install dependencies: `bower install && yarn`
+3. Install dependencies: `yarn && bower install`
 4. Build: `npm run build`
 
 # TODO
