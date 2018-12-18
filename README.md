@@ -3,7 +3,7 @@
 [![Bower Version](https://img.shields.io/bower/v/jeans-kit.svg)](https://bower.io/search/?q=jeans-kit)
 [![Npm Version](https://img.shields.io/npm/v/jeans-kit.svg)](https://www.npmjs.com/package/jeans-kit)
 [![Release Version](https://img.shields.io/github/release/jojoee/jeans-kit.svg)](https://github.com/jojoee/jeans-kit/releases)
-[![Downloads](https://img.shields.io/npm/dt/jeans-kit.svg)](https://github.com/jojoee/jeans-kit/archive/master.zip)
+[![Downloads](https://img.shields.io/npm/dt/jeans-kit.svg)](https://github.com/jojoee/jeans-kit/archive/master.zip) [![Greenkeeper badge](https://badges.greenkeeper.io/jojoee/jeans-kit.svg)](https://greenkeeper.io/)
 
 Simple and clean frontend toolkit that you can wear it everywhere
 
